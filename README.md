@@ -1,8 +1,6 @@
 ### Hi there 👋
 
-<img height="300" align="right" src="https://octocat-generator-assets.githubusercontent.com/my-octocat-1625944843913.png" alt="Cristian Cabrera" />
-
-# Hi 👋, I'm Cristian
+# Hi 👋, I'm Eric
 
 I'm studing web programming and i'm from **Argentina**. I love to play videogames, learn history, finances and general knowledge .  
 Right now I work as a delivery at PedidosYa and Rappi.
