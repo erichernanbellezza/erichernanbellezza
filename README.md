@@ -24,7 +24,7 @@ Right now I work as a delivery at PedidosYa and Rappi.
 ### Where to find me
 
 <p>
-  <a href="www.linkedin.com/in/eric-hernán-bellezza
+  <a href="https://www.linkedin.com/in/eric-hern%C3%A1n-bellezza/
 " target="_blank">
     <img alt="LinkedIn" src="https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
