@@ -1,6 +1,6 @@
 ## Hi 👋, I'm Eric
 
-I'm studing web programming and i'm from **Argentina**. I love to play videogames, learn history, finances and general knowledge .  
+I'm studying web programming and i'm from **Argentina**. I love to play video games, learn history, finances and general knowledge .  
 Right now I work as a delivery at PedidosYa and Rappi.
 
 ### Things I code with
